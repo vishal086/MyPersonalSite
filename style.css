@@ -355,3 +355,16 @@ a.readmore::after
 
 
 }
+
+@media (min-width:280px) and (max-width:440px)
+{
+    #menu li a
+    {
+        color: #fff;
+        padding: 5px 5px;
+        display: block;
+        text-decoration: none;
+       
+    
+    }
+}
