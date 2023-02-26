@@ -360,8 +360,9 @@ a.readmore::after
 {
     #menu li a
     {
+        font-size: 13px;
         color: #fff;
-        padding: 5px 5px;
+        padding: 2px 2px;
         display: block;
         text-decoration: none;
        
