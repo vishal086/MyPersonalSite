@@ -365,7 +365,15 @@ a.readmore::after
         padding: 2px 2px;
         display: block;
         text-decoration: none;
-       
+    }
     
+    .name
+    {
+        font-size: 15px;
+    }
+
+    #about i 
+    {
+        font-size: 13px;
     }
 }
