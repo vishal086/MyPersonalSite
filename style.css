@@ -7,11 +7,17 @@
 }
 
 
-a{
-    color: black;
+#header a{
+    border-radius: 25px;
+    color: white;
     font-weight: 2px;
     font-family: sans-serif;
 }
+
+ #header li a:hover
+{
+    background-color: #57479a;
+} 
 
 #btn
 {
