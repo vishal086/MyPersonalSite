@@ -7,6 +7,25 @@
 }
 
 
+a{
+    color: black;
+    font-weight: 2px;
+    font-family: sans-serif;
+}
+
+#btn
+{
+    border: 1px solid #6245e5 ;
+    color: black;
+}
+
+#btn:hover
+{
+    color: white;
+    background-color: #6245e5;
+}
+
+
 #logo
 {
     font-size: 2rem;
