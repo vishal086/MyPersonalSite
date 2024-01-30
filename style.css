@@ -309,11 +309,7 @@ a.readmore::after
 }
 
 /* About me CSS */
-#about img
-{
-    display: block;
-    margin: auto;
-}
+
 
 #about h2,p
 {
@@ -322,7 +318,9 @@ a.readmore::after
 
 #vishal-img
 {
-    border-radius: 100px;
+    display: block;
+    margin: auto;
+    clip-path: circle();
 }
 @media (max-width: 768px)
 {
