@@ -319,6 +319,11 @@ a.readmore::after
 {
     text-align: center;
 }
+
+#vishal-img
+{
+    border-radius: 100px;
+}
 @media (max-width: 768px)
 {
     #logo
